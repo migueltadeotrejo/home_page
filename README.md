@@ -1,7 +1,7 @@
 ### Welcome , are you prepared for a little competition policy and data science?
 
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Tadeo1510?label=Follow)
+![X Follow](https://img.shields.io/twitter/follow/Tadeo1510?label=Follow)
 
 
 <img src= "https://github.com/migueltadeotrejo/home_page/assets/62440746/6da9a248-8ec9-405f-88ae-df68bad56d3a" width="50000px">
