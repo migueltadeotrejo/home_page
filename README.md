@@ -2,7 +2,7 @@
 
 <img src= "https://github.com/migueltadeotrejo/home_page/assets/62440746/6da9a248-8ec9-405f-88ae-df68bad56d3a" width="50000px">
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTadeo1510)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Tadeo1510?label=Follow)
 
 
 
